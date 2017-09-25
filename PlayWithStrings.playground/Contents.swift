@@ -33,7 +33,7 @@ if name.hasSuffix("Montoya") && name2.hasSuffix("Montoya")
     print("\(name) and \(name2) are related")
 }
 
-//tell the useer if the second two people are the same
+//tell the user if the second two people are the same
 if name2 == name3
 {
     print("\(name2) is \(name3)")
