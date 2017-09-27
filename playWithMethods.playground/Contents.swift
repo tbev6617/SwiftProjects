@@ -26,9 +26,9 @@ evenCrazier(count : 2, bandName : "SpongeBob", date : "yesterday")
 
 public func calculateDays( first firstDay : Int, next nextDay : Int) -> Int
 {
-    let answer = nextDay - firstDay;
+    let answer = nextDay - firstDay
     
-    return answer;
+    return answer
 }
 
 calculateDays(first : 1, next : 4)
@@ -39,7 +39,7 @@ public func name(friendName homeName : String) -> Void
     print(info)
 }
 name(friendName : "Dr Fish")
-var guess = 1;
+var guess = 1
 if (guess == 2)
 {
     print("Wahoo!")
