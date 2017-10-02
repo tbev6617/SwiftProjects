@@ -2,58 +2,53 @@
 
 import UIKit
 
-public func simpleMethod() -> Void
+public class SimpleClass
 {
-    print("Science Rules")
-}
-
-simpleMethod()
-
-public func notSoSimple (name : String) -> Void
-{
-    print(name + " is the niftiest")
-}
-
-notSoSimple(name: "Tyler Bevan")
-
-public func evenCrazier (count : Int,bandName : String,
-                         date : String) -> Void
-{
-    let info = "I have seen \(bandName) \(count) times since " + date
-    print(info)
-}
-evenCrazier(count : 2, bandName : "SpongeBob", date : "yesterday")
-
-public func calculateDays( first firstDay : Int, next nextDay : Int) -> Int
-{
-    let answer = nextDay - firstDay
+    private var name : String
     
-    return answer
+    public init (name : String)
+    {
+        self.name = name
+    }
+    
+    public func getName() -> String
+    {
+        return name
+    }
+    public func setName(name : String)
+    {
+        self.name = name
+    }
 }
+var mySample : SimpleClass = SimpleClass(name : "Joe")
+print(mySample.getName())
+mySample.setName(name : "Doctor")
+print(mySample.getName())
 
-calculateDays(first : 1, next : 4)
-
-public func name(friendName homeName : String) -> Void
+public class OtherClass
 {
-    let info = "At my home my name is \(homeName)"
-    print(info)
+    private var favoriteNumber : Int
+    private var favoriteWord : String
+    
+    public init()
+    {
+        favoriteNumber = Int()
+        favoriteWord = String()
+    }
+    public init(favoriteNumber : Int, favoriteWord : String)
+    {
+        self.favoriteNumber = favoriteNumber
+        self.favoriteWord = favoriteWord
+    }
+    public func changeValues() -> Void
+    {
+        favoriteNumber += 76;
+        self.favoriteWord += " bork"
+    }
 }
-name(friendName : "Dr Fish")
-var guess = 1
-if (guess == 2)
-{
-    print("Wahoo!")
-}
-else
-{
-    print("Not likely")
-}
-var i = 0
-while (i < 5)
-{
-    print(i + 1)
-    i += 1
-}
+var firstSample = OtherClass()
+var secondSample = OtherClass(favoriteNumber : 13, favoriteWord : "Bork")
+secondSample.changeValues()
 
 
 
