@@ -24,3 +24,38 @@ var mySample : SimpleClass = SimpleClass(name : "Joe")
 print(mySample.getName())
 mySample.setName(name : "Doctor")
 print(mySample.getName())
+
+public class OtherClass
+{
+    private var favoriteNumber : Int
+    private var favoriteWord : String
+    
+    public init()
+    {
+        favoriteNumber = Int()
+        favoriteWord = String()
+    }
+    public init(favoriteNumber : Int, favoriteWord : String)
+    {
+        self.favoriteNumber = favoriteNumber
+        self.favoriteWord = favoriteWord
+    }
+    public func changeValues() -> Void
+    {
+        favoriteNumber += 76;
+        self.favoriteWord += " bork"
+    }
+}
+var firstSample = OtherClass()
+var secondSample = OtherClass(favoriteNumber : 13, favoriteWord : "Bork")
+secondSample.changeValues()
+
+
+
+
+
+
+
+
+
+
