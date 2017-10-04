@@ -3,7 +3,37 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/tbev6617/Documents/SwiftProjects/PlayWithGUI.playground#CharacterRangeLen=33&amp;CharacterRangeLoc=267&amp;EndingColumnNumber=33&amp;EndingLineNumber=9&amp;StartingColumnNumber=0&amp;StartingLineNumber=9&amp;Timestamp=528820199.713023"
+         documentLocation = "file:///Users/tbev6617/Documents/SwiftProjects/PlayWithGUI.playground#CharacterRangeLen=35&amp;CharacterRangeLoc=269&amp;EndingColumnNumber=35&amp;EndingLineNumber=10&amp;StartingColumnNumber=0&amp;StartingLineNumber=10&amp;Timestamp=528821741.92821"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/tbev6617/Documents/SwiftProjects/PlayWithGUI.playground#CharacterRangeLen=11&amp;CharacterRangeLoc=430&amp;EndingColumnNumber=12&amp;EndingLineNumber=14&amp;StartingColumnNumber=1&amp;StartingLineNumber=14&amp;Timestamp=528821741.928318"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/tbev6617/Documents/SwiftProjects/PlayWithGUI.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=304&amp;EndingColumnNumber=35&amp;EndingLineNumber=10&amp;StartingColumnNumber=35&amp;StartingLineNumber=10&amp;Timestamp=528821741.928442"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/tbev6617/Documents/SwiftProjects/PlayWithGUI.playground#CharacterRangeLen=11&amp;CharacterRangeLoc=223&amp;EndingColumnNumber=12&amp;EndingLineNumber=8&amp;StartingColumnNumber=1&amp;StartingLineNumber=8&amp;Timestamp=528821741.928517"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/tbev6617/Documents/SwiftProjects/PlayWithGUI.playground#CharacterRangeLen=11&amp;CharacterRangeLoc=757&amp;EndingColumnNumber=9&amp;EndingLineNumber=24&amp;StartingColumnNumber=33&amp;StartingLineNumber=23&amp;Timestamp=528821741.928589"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/tbev6617/Documents/SwiftProjects/PlayWithGUI.playground#CharacterRangeLen=11&amp;CharacterRangeLoc=758&amp;EndingColumnNumber=10&amp;EndingLineNumber=24&amp;StartingColumnNumber=34&amp;StartingLineNumber=23&amp;Timestamp=528821741.928663"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/tbev6617/Documents/SwiftProjects/PlayWithGUI.playground#CharacterRangeLen=11&amp;CharacterRangeLoc=760&amp;EndingColumnNumber=12&amp;EndingLineNumber=24&amp;StartingColumnNumber=1&amp;StartingLineNumber=24&amp;Timestamp=528821741.928734"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
