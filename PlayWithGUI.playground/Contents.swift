@@ -24,9 +24,3 @@ var thirdButton = UIButton(frame : CGRect(x : 50, y : 50, width : 180, height : 
 thirdButton.backgroundColor = .red
 thirdButton.setTitle(label2.text, for : .normal)
 
-
-
-
-
-
-
